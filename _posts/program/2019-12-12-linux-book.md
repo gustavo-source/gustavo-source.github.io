@@ -5,7 +5,8 @@ category: 资源
 keywords: 速查，Linux
 ---
 
-[toc]
+{:toc}
+
 ## 文件相关
 ### 文件查看
 ```
