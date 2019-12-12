@@ -39,8 +39,8 @@ permalink: /:year/:month/:day/:title.html
 #highlighter: rouge
 markdown: kramdown
 kramdown:
-    input: GFM
-highlighter: rouge
+  input: GFM
+  syntax_highlighter: rouge
 mathjax: disabled
 sass:
   style: compressed
